@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyCalc</string>
+    <string name="b">B</string>
+    <string name="per">%</string>
+    <string name="five">5</string>
+    <string name="c">C</string>
+    <string name="div">/</string>
+    <string name="x">x</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+</resources>
